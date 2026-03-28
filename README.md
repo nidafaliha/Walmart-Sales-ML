@@ -40,4 +40,3 @@ Logistic Regression to classify high-demand week
 1. Top stores with highest holiday uplift
 2. Key drivers of weekly sales (overall and selected stores)
 3. Forecast vs actual visualizations (selected stores)
-4. Operational recommendations for planning during demand peaks
