@@ -10,7 +10,7 @@ explain which variables contribute most to sales using feature importance (and o
 The project produces actionable insights such as the most holiday-sensitive stores, the top drivers of weekly sales, and visual summaries that can help inform decisions on replenishment, staffing, and capacity planning during demand peaks.
 
 # Team Member
-nicolasrojol
+[Nicolas Rojas Lopez](https://github.com/nicolasrojol)
 
 # The Dataset
 We use the Walmart Dataset (Weekly Sales) from Kaggle:
