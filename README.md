@@ -14,17 +14,14 @@ The project produces actionable insights such as the most holiday-sensitive stor
 # The Dataset
 We use the Walmart Dataset (Weekly Sales) from Kaggle:
 
-Source: https://www.kaggle.com/datasets/yasserh/walmart-dataset
-Time period: weekly data from 2010 to 2012
-Unit of analysis: Store-week
+- Source: https://www.kaggle.com/datasets/yasserh/walmart-dataset
+- Time period: weekly data from 2010 to 2012
+- Unit of analysis: Store-week
 Main variables:
-Store: store identifier (1–45)
-Date: week date
-Weekly_Sales: total weekly sales per store
-Holiday_Flag: 1 = holiday week, 0 = non-holiday week
-Temperature, Fuel_Price, CPI, Unemployment: external/economic factors
-
-Note: This dataset does not include product/SKU-level information, so our analysis focuses on store-level aggregated demand.
+- Store: store identifier (1–45)
+- Date: week date
+- Weekly_Sales: total weekly sales per store
+- Holiday_Flag: 1 = holiday week, 0 = non-holiday week, Temperature, Fuel_Price, CPI, Unemployment: external/economic factors
 
 # Methodology
 1. Data Preparation
