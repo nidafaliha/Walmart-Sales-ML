@@ -14,7 +14,10 @@ The project produces actionable insights such as the most holiday-sensitive stor
 - [Nabeel Pasha](https://github.com/NabeelPasha)
 - [Jamihla Poukone](https://github.com/poukonenteintiejamihla-ux)
 - [Nida Faliha](https://github.com/nidafaliha)
-
+- [Karthik Annadurai](https://github.com/karthikannadurai14-lgtm)
+- [Miguel Cardenas](https://github.com/chivas201904-hue)
+- [Sebastian Ruiz Fitzgerald](https://github.com/sebastianruizf)
+  
 # The Dataset
 We use the Walmart Dataset (Weekly Sales) from Kaggle:
 
